@@ -2,7 +2,7 @@
 
 `my_ptr` sınıfı, basit bir akıllı işaretçi (smart pointer) implementasyonudur. Bu, bellek yönetimini kolaylaştırmak ve otomatikleştirmek için kullanılır. İşte `my_ptr`'nin temel özellikleri ve kullanımı:
 
-## Kurucular
+## Kurucular 
 
 ### `explicit my_ptr(T* p = nullptr)`
 
