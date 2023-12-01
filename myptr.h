@@ -1,5 +1,6 @@
 #include <iostream>
 #ifndef MYPTR_H
+#define MYPTR_H
 #define UBCHECK
 #define OPBOOL
 #define OPDREF
