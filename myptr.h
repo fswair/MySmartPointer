@@ -1,7 +1,9 @@
 #include <iostream>
+#ifndef MYPTR_H
 #define UBCHECK
 #define OPBOOL
 #define OPDREF
+#endif
 
 template <typename T>
 class my_ptr{
